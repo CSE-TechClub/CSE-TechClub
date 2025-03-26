@@ -1,6 +1,6 @@
 - 👋 Hi, Welcome to @CSE-TechClub
-- 🎯 A good social contribution from our Club
-- 💞️ We are looking to collaborate on Ai and development enthusiasts
+- 🎯 Our Aim is to Contribute technically from our Club
+- 💞️ We are looking to collaborate with Ai and development enthusiasts
 - 📫 How to reach us <a href="mailto:csekitclub@gmail.com">Gmail</a>
 - ⚡ Fun fact: we code less 🤭
 
